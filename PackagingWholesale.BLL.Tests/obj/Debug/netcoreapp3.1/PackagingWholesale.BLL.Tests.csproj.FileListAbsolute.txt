@@ -89,10 +89,12 @@ C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL.Tests\bin\Debug\
 C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL.Tests\obj\Debug\netcoreapp3.1\PackagingWholesale.BLL.Tests.csprojAssemblyReference.cache
 C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL.Tests\obj\Debug\netcoreapp3.1\PackagingWholesale.BLL.Tests.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL.Tests\obj\Debug\netcoreapp3.1\PackagingWholesale.BLL.Tests.AssemblyInfo.cs
-C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL.Tests\obj\Debug\netcoreapp3.1\PackagingWholesale.BLL.Tests.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL.Tests\obj\Debug\netcoreapp3.1\PackagingWholesale.BLL.Tests.csproj.CopyComplete
 C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL.Tests\obj\Debug\netcoreapp3.1\PackagingWholesale.BLL.Tests.dll
 C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL.Tests\obj\Debug\netcoreapp3.1\PackagingWholesale.BLL.Tests.pdb
 C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL.Tests\obj\Debug\netcoreapp3.1\PackagingWholesale.BLL.Tests.genruntimeconfig.cache
 C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL.Tests\bin\Debug\netcoreapp3.1\PackagingWholesale.BLL.dll
 C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL.Tests\bin\Debug\netcoreapp3.1\PackagingWholesale.BLL.pdb
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL.Tests\obj\Debug\netcoreapp3.1\PackagingWholesale.BLL.Tests.csproj.CoreCompileInputs.cache

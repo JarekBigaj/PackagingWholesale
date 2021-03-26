@@ -1,17 +1,22 @@
 ﻿using System;
 using Xunit;
 using PackagingWholesale.BLL.Products.Buying;
-
+using PackagingWholesale.BLL.Products.Buying.Processor;
+using PackagingWholesale.BLL.Interface;
+using Moq;
 
 namespace PackagingWholesale.BLL.Tests
 {
     public class ProductBuyingRequestProcessorTests
     {
+        private Mock<IProductBuyingRepository> _repositoryMock;
         private ProductBuyingRequestProcessor _processor;
         private ProductBuyingRequest _request;
         public ProductBuyingRequestProcessorTests()
         {
-            _processor = new ProductBuyingRequestProcessor();
+            _repositoryMock = new Mock<IProductBuyingRepository>();
+
+            _processor = new ProductBuyingRequestProcessor(_repositoryMock.Object);
 
             //Arrange
             _request = new ProductBuyingRequest()
@@ -58,6 +63,30 @@ namespace PackagingWholesale.BLL.Tests
             Assert.Equal(true, result.IsStatusOk);
             Assert.Equal(0, result.Errors.Count);
 
+        }
+
+        [Fact]
+        public void ShouldSaveBoughtGame()
+        {
+            //Arrange
+            ProductBought savedProductBought = null;
+
+            _repositoryMock.Setup(x => x.Save(It.IsAny<ProductBought>()))
+                .Callback<ProductBought>(product =>
+                {
+                    savedProductBought = product;
+                });
+
+            //Act
+            _processor.BuyProduct(_request);
+            _repositoryMock.Verify(x => x.Save(It.IsAny<ProductBought>()), Times.Once);
+
+            //Assert
+            Assert.NotNull(savedProductBought);
+            Assert.Equal(_request.FirstName, savedProductBought.FirstName);
+            Assert.Equal(_request.LastName, savedProductBought.LastName);
+            Assert.Equal(_request.Email, savedProductBought.Email);
+            Assert.Equal(_request.Date, savedProductBought.Date);
         }
     }
 }
