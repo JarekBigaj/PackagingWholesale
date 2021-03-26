@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.DAL\bin\Debug\netcoreapp3.1\PackagingWholesale.DAL.deps.json
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.DAL\bin\Debug\netcoreapp3.1\PackagingWholesale.DAL.dll
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.DAL\obj\Debug\netcoreapp3.1\PackagingWholesale.DAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.DAL\obj\Debug\netcoreapp3.1\PackagingWholesale.DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.DAL\obj\Debug\netcoreapp3.1\PackagingWholesale.DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.DAL\bin\Debug\netcoreapp3.1\PackagingWholesale.DAL.pdb
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.DAL\bin\Debug\netcoreapp3.1\PackagingWholesale.BLL.dll
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.DAL\bin\Debug\netcoreapp3.1\PackagingWholesale.BLL.pdb
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.DAL\obj\Debug\netcoreapp3.1\PackagingWholesale.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.DAL\obj\Debug\netcoreapp3.1\PackagingWholesale.DAL.csproj.CopyComplete
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.DAL\obj\Debug\netcoreapp3.1\PackagingWholesale.DAL.dll
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.DAL\obj\Debug\netcoreapp3.1\PackagingWholesale.DAL.pdb
