@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL\bin\Debug\netcoreapp3.1\PackagingWholesale.BLL.deps.json
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL\bin\Debug\netcoreapp3.1\PackagingWholesale.BLL.dll
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL\bin\Debug\netcoreapp3.1\PackagingWholesale.BLL.pdb
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL\obj\Debug\netcoreapp3.1\PackagingWholesale.BLL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL\obj\Debug\netcoreapp3.1\PackagingWholesale.BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL\obj\Debug\netcoreapp3.1\PackagingWholesale.BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL\obj\Debug\netcoreapp3.1\PackagingWholesale.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL\obj\Debug\netcoreapp3.1\PackagingWholesale.BLL.dll
+C:\Users\User\Desktop\PackagingWholesale\PackagingWholesale.BLL\obj\Debug\netcoreapp3.1\PackagingWholesale.BLL.pdb
