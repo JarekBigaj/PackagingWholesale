@@ -4,6 +4,6 @@ namespace PackagingWholesale.BLL.Interface
 {
     public interface IProductBuyingRepository
     {
-        public void Save(ProductBought productBought);
+        public int Save(ProductBought productBought);
     }
 }
